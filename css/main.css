@@ -1,103 +1,11 @@
-.body {
-	background-color: #cceeff;
+<style>
+@import url('https://fonts.googleapis.com/css?family=Assistant');
+</style>
+
+<link rel="stylesheet" type="text/css" href="index.html">
+
+.exit {
+  font-size: 25pt;
+  color:yellow;
+  clear:both;
 }
-
-
-/* Chat containers */
-
-
-
-.blue {
-	background-color:#cceeff;
-}
-
-.container {
-  border: 1px solid #4db8ff;
-  background-color: #ffffff;
-	font:arial;
-  border-radius: 5px;
-  padding: 10px;
-  margin: 10px 0;
-	width:75%;
-	float:left;
-}
-
-.textbox {
-	border: 2px solid #4db8ff;
-	background-color: #ffffff;
-	border-radius: 1 px;
-	padding:1px;
-	margin: 1px;
-}
-
-
-
-.bold {
-  font-weight: bold
-	font: arial;
-}
-
-.lighttext {
-	font-size: 11pt;
-	font: arial;
-	color: #bfbfbf;
-}
-
-/* Style time text */
-.time-right {
-	font-size: 11pt;
-	font: arial;
-  float: right;
-  color: #8c8c8c;
-}
-
-/* Style time text */
-.time-left {
-	font-size: 11pt;
-	font:arial;
-  float: left;
-  color: #8c8c8c;
-}
-.profiletext {
-  float: left;
-  color: #000000;
-}
-
-.floatleft {
-	float: left;
-}
-
-.floatright {
-	float:right;
-}
-
-
-.scroll {
-	overflow-y:scroll;
-	height:400px;
-}
-
-.profilesbox {
-	border: 1px solid #4db8ff;
-  background-color: #ffffff;
-  border-radius: 10px;
-	font:arial;
-  padding: 10px;
-  margin: 10px 0;
-	float:left;
-	width:20%;
-}
-
-.onlinebox {
-	border: 1px solid #4db8ff;
-  background-color: #ffffff;
-  border-radius: 5px;
-	font:arial;
-  padding: 10px;
-  margin: 40px 0;
-	float:right;
-	width:10%;
-}
-
-
-/*ask prof how to move useronline box to the right*/
